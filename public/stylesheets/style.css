@@ -1,0 +1,96 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.newBody {
+  background: white;
+}
+
+.row {
+  margin: 0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.new-form {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.button {
+  background: white;
+  color: #99cccc;
+}
+
+.head {
+  font-size: 200%;
+  margin-bottom: 2px;
+}
+
+.name {
+  font-size: 130%;
+}
+
+
+
+/*.full-bio {
+  width: 100%;
+}
+
+.bio {
+  margin-bottom: 0;
+  font-family: "Open Sans";
+  font-weight: 100;
+}*/
+
+.fix {
+  padding: 0;
+}
+
+.arrow {
+  text-align: center;
+  padding-top: 68px;
+}
+
+.left {
+  padding-left: 70px;
+}
+
+.right {
+  padding-right: 80px;
+}
+
+.featured-text {
+  font-family: 'Avenir Next';
+  font-weight: lighter;
+}
+
+.see-more {
+  background: #99cccc;
+  color: white;
+  padding: 5px;
+  border-radius: 2px;
+  text-decoration: none;
+  text-align: center;
+  width: 100%;
+}
+
+.see-more:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.side {
+  margin-top: 5px;
+}
+
+.left-side {
+  margin-top: 30px;
+  font-family: Avenir Next;
+  color: #99cccc;
+}
+
